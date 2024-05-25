@@ -1,1 +1,1 @@
-
+In this notebook, I have analyzed various strategies in option trading , made use of skillsets in python to retrieve and calculate necessary prices for calculating profit/loss( PnL)  for different strategies, and different asset classes.
